@@ -1,6 +1,6 @@
 # Build configuration for AppVeyor CI Windows builds
 configuration: Release
-platform: Win32
+platform: Win64
 os: Visual Studio 2017
 environment:
     DENG_DEPEND_PATH: c:\projects\doomsday-engine\deps
